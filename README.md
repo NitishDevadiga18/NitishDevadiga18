@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Computer science Engineering Student<br>
+I am a Computer science Engineering Student<br>
 
 
 ## 🌐 Socials:
